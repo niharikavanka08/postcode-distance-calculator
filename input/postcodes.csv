@@ -1,3 +1,4 @@
 RoomBookingHashKey,CustomerHashKey,SiteHashKey,SitePostcode,CustomerPostcode
 abc123,cust001,site001,NE1 5DL,DH1 4RB
 def456,cust002,site002,SW1A 1AA,EC1A 1BB
+def456,cust002,site002,,EC1A 1BB

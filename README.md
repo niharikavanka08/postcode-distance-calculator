@@ -15,7 +15,7 @@ A Python app to calculate distances between UK postcodes using pgeocode, reading
 1. Clone: `git clone https://github.com/your-username/postcode-distance-calculator.git`
 2. Install: `pip install -r requirements.txt`
 3. Add input CSV to `input/postcodes.csv`.
-4. Run: `python src/calculate_distance.py` and enter column names.
+4. Run: `python postcode_distance_calculator.py` and enter column names.
 
 ## Usage
 - Input CSV format: Columns with source and destination postcodes (e.g., SitePostcode, CustomerPostcode).
